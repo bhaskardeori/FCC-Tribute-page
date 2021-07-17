@@ -13,7 +13,6 @@ body main div{
 @media (max-width: 576px) { 
     .m-3{
         margin: 0em !important;
-        background-color: #e4fcdf ;
     }
     .m-5 {
         margin: 0em !important;
