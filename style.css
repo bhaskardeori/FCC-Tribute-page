@@ -48,4 +48,6 @@ img {
     top: 18px;
 }
 
-
+body {
+    font-family: 'Noto Serif', serif;
+}
